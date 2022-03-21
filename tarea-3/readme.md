@@ -22,7 +22,7 @@
 
 *Comando para compute engine*
 
-(Falta comando)
+<img src="imagenes/Comandos_Compute_Engine.png" width="600">
 
 <div align="left">
 
@@ -65,4 +65,4 @@
 
 ## Para la obtención de los comando se consultó la siguiente página web.
 
-(Citar página)
+https://cloud.google.com/sdk/gcloud?hl=es-419
