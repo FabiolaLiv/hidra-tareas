@@ -20,7 +20,7 @@
 
 <img src="imagenes/computeengine.png" width="600">
 
-*Comando para compute engine*
+*Comandos para compute engine*
 
 <img src="imagenes/Comandos_Compute_Engine.png" width="600">
 
