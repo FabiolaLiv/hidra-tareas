@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # Tarea 3 "Comandos GCP"
 
@@ -20,20 +20,23 @@
 
 <img src="imagenes/computeengine.png" width="600">
 
-*Comando para compute engine*
+*Comandos para compute engine*
 
-(Falta comando)
+<img src="imagenes/Comandos_Compute_Engine.png" width="600">
 
 <div align="left">
 
 ## **b. Listar IPs en uso, existentes o reservadas.**
 
 <div align="center">
+
 *Imagen tomada desde la consola de GCP para ver el listado de IPs*
 
 <img src="imagenes/ipsenuso.png" width="600">
 
+
 *Comandos para listar las IPs ocupadas así como la lita de las redes existentes.*
+
 >> gcloud compute addresses list
 
 >> gcloud compute networks list
@@ -57,6 +60,7 @@
 ## **d. Listar Service Accounts existentes en un proyecto.**
 
 <div align= "center">
+
 *Para este mostramos la imagen del Sevice Accounts de la consola de GCP*
 
 <img src="imagenes/serviceaccounts.png" width="600">
@@ -65,4 +69,6 @@
 
 ## Para la obtención de los comando se consultó la siguiente página web.
 
-(Citar página)
+https://cloud.google.com/sdk/gcloud?hl=es-419
+
+https://cloud.google.com/sdk/gcloud/reference/iam/service-accounts/list?hl=en
