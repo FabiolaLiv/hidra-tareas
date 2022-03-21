@@ -54,7 +54,7 @@
 
 <div align="left">
 
-## ** d.Listar Service Accounts existentes en un proyecto.**
+## **d. Listar Service Accounts existentes en un proyecto.**
 
 <div align= "center">
 *Para este mostramos la imagen del Sevice Accounts de la consola de GCP*
