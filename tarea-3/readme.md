@@ -12,7 +12,7 @@
 
 <div align="left">
 
-a. **Listar Compute Engine**
+## **a. Listar Compute Engine**
 
 <div align="center">
 
@@ -26,11 +26,12 @@ a. **Listar Compute Engine**
 
 <div align="left">
 
-b. **Listar IPs en uso, existentes o reservadas.**
+## **b. Listar IPs en uso, existentes o reservadas.**
 
+<div align="center">
 *Imagen tomada desde la consola de GCP para ver el listado de IPs*
 
-<img src="imagenes/ipsenuso.png" width="400">
+<img src="imagenes/ipsenuso.png" width="600">
 
 *Comandos para listar las IPs ocupadas así como la lita de las redes existentes.*
 >> gcloud compute addresses list
@@ -39,7 +40,9 @@ b. **Listar IPs en uso, existentes o reservadas.**
 
 <div align="left">
 
-c. **Listar buckets disponibles.**
+## **c. Listar buckets disponibles.**
+
+<div align="center">
 
 *Imagen tomada desde la consola de GCP para ver los buckets*
 
@@ -50,13 +53,16 @@ c. **Listar buckets disponibles.**
 >> gcloud compute buckets list
 
 <div align="left">
-d. **Listar Service Accounts existentes en un proyecto.**
 
+## ** d.Listar Service Accounts existentes en un proyecto.**
+
+<div align= "center">
 *Para este mostramos la imagen del Sevice Accounts de la consola de GCP*
 
 <img src="imagenes/serviceaccounts.png" width="600">
 
 <div align="left">
-Para la obtención de los comando se consultó la siguiente página web.
+
+## Para la obtención de los comando se consultó la siguiente página web.
 
 (Citar página)
