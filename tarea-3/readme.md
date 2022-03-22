@@ -75,6 +75,12 @@
 
 <img src="imagenes/serviceaccounts.png" width="600">
 
+
+<img src="imagenes/Hidra_Avatar.PNG" width="100">
+
+<div align="center">
+
+
 <div align="left">
 
 ## Bibliografía.
@@ -82,10 +88,4 @@
 <p align="left>
 <a href="https://cloud.google.com/sdk/gcloud?hl=es-419" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="65" height="65"/> </a> <a href="https://www.linkedin.com/pulse/decorar-perfil-de-github-con-readme-carlos-salvador/?originalSubdomain=es" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="65" height="65"/> </a> <a href="https://cloud.google.com/sdk/gcloud?hl=es-419" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="65" height="65"/> </a> <a href="https://cloud.google.com/sdk/gcloud/reference/iam/service-accounts/list?hl=en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="65"/> </a
 </p>
-
-
-
-<img src="imagenes/Hidra_Avatar.PNG" width="100">
-
-<div align="center">
 
