@@ -75,10 +75,9 @@
 
 <img src="imagenes/serviceaccounts.png" width="600">
 
+<div align="center">
 
 <img src="imagenes/Hidra_Avatar.PNG" width="100">
-
-<div align="center">
 
 
 <div align="left">
