@@ -12,6 +12,17 @@
 
 <div align="left">
 
+### INDICE:
+### a. Listar Compute Engine
+### b. Listar IPs en uso, existentes o reservadas
+### c. Listar buckets disponible
+### d. Listar Service Accounts existentes en un proyecto
+###    Bibliografía
+
+
+
+<div align="left">
+
 ## **a. Listar Compute Engine**
 
 <div align="center">
@@ -33,7 +44,6 @@
 *Imagen tomada desde la consola de GCP para ver el listado de IPs*
 
 <img src="imagenes/ipsenuso.png" width="600">
-
 
 *Comandos para listar las IPs ocupadas así como la lita de las redes existentes.*
 
@@ -65,11 +75,19 @@
 
 <img src="imagenes/serviceaccounts.png" width="600">
 
+<div align="center">
+
+<img src="imagenes/Hidra_Avatar.PNG" width="100">
+
+
 <div align="left">
 
-## Para la obtención de los comando se consultó la siguiente página web.
+## Bibliografía.
 
-[https://cloud.google.com/sdk/gcloud?hl=es-419]
+<p align="left>
 
+<https://cloud.google.com/sdk/gcloud?hl=es-419>
+<https://cloud.google.com/sdk/gcloud/reference/iam/service-accounts/list?hl=en>
 
-[https://cloud.google.com/sdk/gcloud/reference/iam/service-accounts/list?hl=en]
+</p>
+
