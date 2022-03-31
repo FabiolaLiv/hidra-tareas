@@ -39,3 +39,24 @@
 8. Proceso de solicitudes de cambio en configuración de puertos en DATA CENTERS.
 9. Actualización y administración de Bitácoras de fallas en DATA CENTERS, tiendas, y Centros de distirbución.
 10. Asignación de direccionamiento para la actualización de VoIP para tiendas y bodegas.
+
+## **Miguel Aarón Hernández Valle**
+</div>
+
+### Listado de procesos candidatos.
+
+1.	Proceso de recertificación de DB de usuarios de la VPN.
+2.	Proceso de actualización de matriz de usuarios administradores, solicitados por la OSI.
+3.	Proceso de actualización de matriz de firmware y parches de seguridad publicados mensualmente por los proveedores de los appliance de seguridad, administrados por el SegNet.
+4.	Proceso de reporte de actividades diarias sobre avances de proyectos, actividades operativas y troubleshuting.
+5.	Proceso de minuta de proyectos gestionados por el área y personales.
+6.	Proceso generación de plantillas de recordatorios y seguimiento de auditorías internas y externas.
+7.	Proceso de actualización de bitácoras para requerimientos e incidentes asignados al área.
+8.	Proceso de generación de plantillas sobre actualización de documentos presentados en comité de seguridad.
+9.	Proceso de actualización de DB de bajas, altas y cambios de usuarios administradores dados de alta en las herramientas de seguridad.
+10.	Proceso de DB de información y actualización de Inventario de IP y Vlan de equipos de seguridad.
+11.	Proceso de documentación y seguimiento de  reportes de vulnerabilidades reportado por la OSI.
+12.	Proceso  de minutas de escaneos de vulnerabilidades generados por la OSI.
+13.	Proceso de actualización de DB de IP de cajeros automáticos.
+14.	Proceso de minuta semanal de pendientes y avances de proyectos con proveedores.
+15.	Proceso de documentación de mejora continua en las tareas del área.
