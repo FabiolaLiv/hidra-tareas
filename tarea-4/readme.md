@@ -3,8 +3,10 @@
 # TAREA 4
 </div>
 
-Maribel Fabiola Triana Salce
+## **Maribel Fabiola Triana Salce**
 </div>
+
+### Listado de procesos candidatos.
 
 1. Creación de jobs para transferencia de tlogs.
 2. Creación de jobs para transferencia de datos de volumen de tlog a servidor web.
