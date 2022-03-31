@@ -60,3 +60,25 @@
 13.	Proceso de actualización de DB de IP de cajeros automáticos.
 14.	Proceso de minuta semanal de pendientes y avances de proyectos con proveedores.
 15.	Proceso de documentación de mejora continua en las tareas del área.
+
+## **Juan Carlos Gonzalez Becerril**
+</div>
+
+### Listado de procesos candidatos.
+
+1.	Proceso crear un shared VPC.
+2.	Proceso crear una nueva VPC.
+3.	Proceso crear una subnet bajo VPC.
+4.	Proceso crear un registro de DNS tipo A.
+5.	Proceso crear un registro de DNS tipo Texto.
+6.	Proceso crear un un registro de DNS tipo CName.
+7.	Proceso crear un servicio de Balanceador Global.
+8.	Proceso crear un  servicio de Balanceador Global.
+9.	Proceso crear un Peer bajo el VPC.
+10.	Proceso crear un  Private Service Connect.
+11.	Proceso crear un nuevo segmento de IPs.
+12.	Proceso crear un Service Serverless.
+13.	Proceso crear un Cloud Router.
+14.	Proceso crear un segmento reservado.
+15.	Proceso crear una IP reservada.
+16. Proceso crear un Cloud NAT 
