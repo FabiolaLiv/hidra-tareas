@@ -73,7 +73,7 @@
 5.	Proceso crear un registro de DNS tipo Texto.
 6.	Proceso crear un un registro de DNS tipo CName.
 7.	Proceso crear un servicio de Balanceador Global.
-8.	Proceso crear un  servicio de Balanceador Global.
+8.	Proceso crear un  servicio de Balanceador Regional.
 9.	Proceso crear un Peer bajo el VPC.
 10.	Proceso crear un  Private Service Connect.
 11.	Proceso crear un nuevo segmento de IPs.
